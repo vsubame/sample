@@ -1,0 +1,3 @@
+config:
+  client:
+    message: Hello Client1
