@@ -1,10 +1,10 @@
 config:
   client:
-    message: Client2
-    list[0]: list1
+    message: Client78
+    list[0]: list1233
     list[1]: list2
     
     map:
       key1: val1
       key2: val2
-      key3: val3
+
